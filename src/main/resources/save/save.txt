@@ -1,0 +1,4 @@
+#PlayerX=480
+#PlayerY=352
+#WorldX=552
+#WorldY=624
